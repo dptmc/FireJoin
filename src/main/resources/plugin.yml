@@ -1,6 +1,6 @@
-name: PluginName
+name: FireJoin
 version: @version@-@apiversion@
-description: An empty plugin for Spigot with Maven
-authors: [ DartPower, AnotherContributorName ]
-website: https://github.com/dptmc/DPT-PluginRepoTemplate
-main: io.dpteam.PluginName.Main
+description: FireJoin
+authors: [ DartPower, hofma100 ]
+website: https://github.com/dptmc/FireJoin
+main: io.dpteam.FireJoin.Main

@@ -1,4 +1,3 @@
-# DPT-PluginRepoTemplate
-DPT Specific Plugins for Bukkit-based plugin template
+# FireJoin
 
-![Build](https://github.com/dptmc/DPT-PluginRepoTemplate/workflows/Build/badge.svg)
+![Build](https://github.com/dptmc/FireJoin/workflows/Build/badge.svg)
