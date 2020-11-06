@@ -1,4 +1,4 @@
-package io.dpteam.PluginName;
+package io.dpteam.FireJoin;
 
 import java.io.IOException;
 import org.bukkit.Bukkit;

@@ -1,4 +1,4 @@
-package io.dpteam.PluginName;
+package io.dpteam.FireJoin;
 
 import java.util.Random;
 import org.bukkit.Color;
