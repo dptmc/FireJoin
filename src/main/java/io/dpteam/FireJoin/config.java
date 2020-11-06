@@ -12,7 +12,7 @@ public class config {
 	}
 
 	public void load() {
-		this.file = this.getConfig();
+		this.file = Main.getPlugin().getConfig();
 		if (!this.file.contains("power")) {
 			this.file.set("power", configPower);
 		}
@@ -39,6 +39,6 @@ public class config {
 	}
 
 	public void letsSAVEthisShit() {
-		this.saveConfig();
+		Main.getPlugin().saveConfig();
 	}
 }
