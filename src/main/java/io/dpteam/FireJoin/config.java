@@ -12,7 +12,7 @@ public class config {
 	}
 
 	public void load() {
-		this.file = FireJoin.getPlugin().getConfig();
+		this.file = config.getPlugin().getConfig();
 		if (!this.file.contains("power")) {
 			this.file.set("power", configPower);
 		}
@@ -39,6 +39,6 @@ public class config {
 	}
 
 	public void letsSAVEthisShit() {
-		FireJoin.getPlugin().saveConfig();
+		config.getPlugin().saveConfig();
 	}
 }
